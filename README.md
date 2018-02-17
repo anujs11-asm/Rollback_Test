@@ -5,3 +5,4 @@ c2:caused by c2
 c3:caused by c3
 c4:caused by c4
 c5:caused by c5
+c6:caused by c6
